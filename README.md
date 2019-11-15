@@ -4,6 +4,7 @@
 install 
 
 ```sh
+$ pip install -i https://test.pypi.org/simple/ epysod
 $ pip install pytz -q                                      
 ```
 
