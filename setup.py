@@ -4,9 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="epysod-iamvee", # Replace with your own username
-    version="0.0.2",
+    name="epysod", # Replace with your own username
+    version="0.0.4",
     author="i am vee",
+    install_requires=['docutils>=0.3'],
     author_email="naeini.v@gmail.com",
     description="A small example package",
     long_description=long_description,

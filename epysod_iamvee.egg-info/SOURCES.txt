@@ -1,7 +1,0 @@
-README.md
-setup.py
-epysod/__init__.py
-epysod_iamvee.egg-info/PKG-INFO
-epysod_iamvee.egg-info/SOURCES.txt
-epysod_iamvee.egg-info/dependency_links.txt
-epysod_iamvee.egg-info/top_level.txt
